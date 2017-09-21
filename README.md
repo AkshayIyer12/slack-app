@@ -1,4 +1,4 @@
-# Your StdLib Slack App
+# StdLib Slack App
 
 Welcome to your StdLib Slack template!
 
@@ -358,4 +358,4 @@ multiple teams.
 
 We hope this has served as a welcoming introduction to your
 Slack App project scaffold on [StdLib](https://stdlib.com) --- happy building!
-# slack-app
+
